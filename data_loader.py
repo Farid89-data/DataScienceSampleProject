@@ -4,7 +4,6 @@ Data Loading and Preprocessing Module
 This module handles loading, preprocessing, and analyzing the CIFAR-10 dataset
 for image classification tasks.
 """
-
 import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf
