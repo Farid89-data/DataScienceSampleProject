@@ -6,6 +6,7 @@
 
 A comprehensive image classification system demonstrating advanced computer vision and data science concepts for the NHL Stenden Master's program in Computer Vision & Data Science (2025-2026).
 
+
 ## 📊 Project Overview
 
 This project implements a state-of-the-art convolutional neural network (CNN) for classifying images from the CIFAR-10 dataset. The implementation showcases programming proficiency, mathematical understanding, and the ability to communicate technical concepts effectively.
