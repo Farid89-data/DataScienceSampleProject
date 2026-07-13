@@ -36,7 +36,7 @@ class ModelEvaluator:
         self.data = data
         self.results_dir = Path(config['results_dir'])
         ensure_dir_exists(self.results_dir)
-
+Print (data)
     @timer
     def evaluate(self):
         """
