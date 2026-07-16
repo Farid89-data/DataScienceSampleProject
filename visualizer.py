@@ -4,6 +4,7 @@ Results Visualization Module
 This module handles the visualization of model training results, evaluation metrics,
 and model predictions using matplotlib and seaborn.
 """
+import numpy as np
 
 import matplotlib.pyplot as plt
 import seaborn as sns
