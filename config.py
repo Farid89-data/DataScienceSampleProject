@@ -1,6 +1,6 @@
 """
 Configuration Management Module
-
+....
 This module handles all configuration settings for the image classification project,
 providing a centralized location for parameter management and validation. ok
 """
