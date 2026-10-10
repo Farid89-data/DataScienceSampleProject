@@ -4,7 +4,7 @@
 DataScienceSampleProject - Main Application Entry Point
 Author: Farid N.
 Date: February 2025
-
+....
 This module serves as the entry point for the image classification system,
 orchestrating the entire workflow from data loading to evaluation and reporting.
 """
