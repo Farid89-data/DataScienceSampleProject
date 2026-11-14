@@ -115,7 +115,7 @@ Mathematical Understanding: Clear grasp of the mathematical principles underpinn
 Technical Communication: Ability to explain complex concepts clearly
 Problem Solving: End-to-end implementation of a computer vision solution
 ##  👨‍💻 Author
-Farid N.
+Farid Negahbani
 GitHub: Farid89-data
 
 ## 📄 License
